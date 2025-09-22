@@ -10,7 +10,7 @@ body {
     background: #f0f2f5;
     margin: 0;
     padding: 20px;
-    background-image: url('./bg.jpg');
+    background-image: url('../images/rick.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
