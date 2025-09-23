@@ -86,13 +86,13 @@ ul li:hover span{
 }
 
 ul li:hover a{
-    background-color: #ec1be9;
+    background-color: #1bec37;
 }
 
 ul li:hover a:before{
-    background-color: #9b1f99;
+    background-color: #299b1f;
 }
 
 ul li:hover a:after{
-    background-color: #570356;
+    background-color: #035703;
 }
